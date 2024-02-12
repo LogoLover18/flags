@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg24"
+   version="1.1"
+   height="150"
+   width="225"
+   sodipodi:docname="District of Columbia.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.6925"
+     inkscape:cx="-299.23688"
+     inkscape:cy="43.127195"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <rect
+     id="rect2"
+     height="150"
+     width="225"
+     x="0"
+     y="0"
+     style="fill:#ffffff;stroke-width:0.32475951" />
+  <path
+     id="t"
+     d="M 56.25,7.50025 52.882351,17.86456 H 41.984 L 50.800825,24.2702 47.433175,34.63525 56.25,28.22961 65.066825,34.63525 61.699175,24.2702 70.516,17.86456 H 59.617649 Z"
+     style="fill:#e81b39;stroke-width:0.37499505"
+     inkscape:connector-curvature="0" />
+  <rect
+     width="225"
+     height="30"
+     y="45"
+     id="b"
+     x="0"
+     style="fill:#e81b39;stroke-width:0.32475951" />
+  <rect
+     id="use22"
+     y="90"
+     height="30"
+     width="225"
+     x="0"
+     style="fill:#e81b39;stroke-width:0.32475951" />
+  <path
+     style="fill:#e81b39;stroke-width:0.37499505"
+     d="m 112.49999,7.5005 -3.36765,10.36431 H 98.233985 l 8.816835,6.40565 -3.36765,10.36504 8.81682,-6.40564 8.81682,6.40564 -3.36763,-10.36504 8.8168,-6.40565 h -10.89834 z"
+     id="path1023"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path1051"
+     d="m 168.74977,7.5006 -3.36765,10.36432 h -10.89834 l 8.81682,6.40564 -3.36765,10.36504 8.81682,-6.40564 8.81682,6.40564 -3.36764,-10.36504 8.81683,-6.40564 h -10.89836 z"
+     style="fill:#e81b39;stroke-width:0.37499505"
+     inkscape:connector-curvature="0" />
+</svg>
