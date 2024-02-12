@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="600" version="1.1" viewBox="0 0 36 24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<clipPath id="c">
+<path d="m0 0v6h22v6h-1zm21 0h-10.5v13h-10.5v-1z"/>
+</clipPath>
+<g>
+<rect x=".00021171" y="2.0981e-5" width="36" height="3" fill="#fff"/>
+<rect x=".00015449" y="3" width="36" height="3" fill="#c8102e"/>
+<rect x=".00015449" y="6" width="36" height="3" fill="#012169"/>
+<rect x="-7.7248e-5" y="9" width="36" height="3" fill="#fff"/>
+<rect x=".00015449" y="12" width="36" height="3" fill="#c8102e"/>
+<rect x=".00015449" y="15" width="36" height="3" fill="#012169"/>
+<rect x=".00015449" y="21" width="36" height="3" fill="#c8102e"/>
+<rect x=".00015449" y="18" width="36" height="3" fill="#fff"/>
+<rect x=".00023174" y="2.0981e-5" width="18" height="12" fill="#012169"/>
+</g>
+<path d="m2.3174e-4 3.2e-5v1.4422l6.8366 4.5578-6.8366 4.5578v1.4422l2.1633 4e-6 6.8366-4.5578 6.8366 4.5578 2.1633 4e-6 -1.5e-5 -1.4422-6.8366-4.5578 6.8366-4.5578v-1.4422h-2.1633l-6.8366 4.5578-6.8366-4.5578z" fill="#fff" fill-rule="evenodd" stroke-width=".048"/>
+<path d="m2.3174e-4 12 6-4h1.3416l-6.2602 4zm0-12 6 4h-1.3416l-4.6583-3.1055zm10.658 4 6-4h1.3416l-6 4zm7.3416 8.0002-6-4h1.3416l4.6584 3.1056z" fill="#c8102e" stroke-width=".048"/>
+<path d="m9.0002 3.2e-5v12m-9-6h18" stroke="#fff" stroke-width="4"/>
+<path d="m9.0002 3.2e-5v12m-9-6h18" fill="#c8102e" stroke="#c8102e" stroke-width="2.4"/>
+</svg>
