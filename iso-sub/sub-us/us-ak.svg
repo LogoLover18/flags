@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="225" height="150">
+  <defs>
+    <g id="b">
+      <path id="a" transform="rotate(18 3.1568758 -.5)" d="M.5 1 0 0v1z"/>
+      <use xlink:href="#a" transform="scale(-1 1)" width="100%" height="100%"/>
+    </g>
+  </defs>
+  <path style="fill:#0f204b;stroke-width:.15438506" d="M-6.3000031 850h225v150h-225z" transform="translate(6.3000031 -850)"/>
+  <g transform="matrix(7.8 0 0 7.8 180.0000031 27.3)" style="fill:#ffb612">
+    <path d="M.16651127.105565 0-1.00000001l-.309017.95105651z"/>
+    <use height="100%" width="100%" xlink:href="#a" transform="scale(-1 1)"/>
+    <use height="100%" width="100%" xlink:href="#b" transform="rotate(72)"/>
+    <use height="100%" width="100%" xlink:href="#b" transform="rotate(-72)"/>
+    <use height="100%" width="100%" xlink:href="#b" transform="rotate(144)"/>
+    <use height="100%" width="100%" xlink:href="#b" transform="rotate(-144)"/>
+  </g>
+  <g transform="matrix(4.65 0 0 4.65 40.6500031 59.4)" style="fill:#ffb612">
+    <path d="M.16651127.105565 0-1.00000001l-.309017.95105651z"/>
+    <use height="100%" width="100%" xlink:href="#a" transform="scale(-1 1)"/>
+    <use height="100%" width="100%" xlink:href="#b" transform="rotate(72)"/>
+    <use height="100%" width="100%" xlink:href="#b" transform="rotate(-72)"/>
+    <use height="100%" width="100%" xlink:href="#b" transform="rotate(144)"/>
+    <use height="100%" width="100%" xlink:href="#b" transform="rotate(-144)"/>
+  </g>
+  <g style="fill:#ffb612" transform="matrix(4.65 0 0 4.65 65.7000031 68.7)">
+    <path d="M-.309017-.0489435.16651128.105565 0-1.00000001z"/>
+    <use transform="scale(-1 1)" xlink:href="#a" width="100%" height="100%"/>
+    <use transform="rotate(72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(144)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-144)" xlink:href="#b" width="100%" height="100%"/>
+  </g>
+  <g style="fill:#ffb612" transform="matrix(4.65 0 0 4.65 78.1500031 82.05)">
+    <path d="M-.309017-.0489435.16651128.105565 0-1.00000001z"/>
+    <use transform="scale(-1 1)" xlink:href="#a" width="100%" height="100%"/>
+    <use transform="rotate(72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(144)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-144)" xlink:href="#b" width="100%" height="100%"/>
+  </g>
+  <g style="fill:#ffb612" transform="matrix(4.65 0 0 4.65 90.7500031 96)">
+    <path d="M-.309017-.0489435.16651128.105565 0-1.00000001z"/>
+    <use transform="scale(-1 1)" xlink:href="#a" width="100%" height="100%"/>
+    <use transform="rotate(72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(144)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-144)" xlink:href="#b" width="100%" height="100%"/>
+  </g>
+  <g style="fill:#ffb612" transform="matrix(4.65 0 0 4.65 128.2500031 109.35)">
+    <path d="M-.309017-.0489435.16651128.105565 0-1.00000001z"/>
+    <use transform="scale(-1 1)" xlink:href="#a" width="100%" height="100%"/>
+    <use transform="rotate(72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(144)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-144)" xlink:href="#b" width="100%" height="100%"/>
+  </g>
+  <g style="fill:#ffb612" transform="matrix(4.65 0 0 4.65 89.1000031 115.65)">
+    <path d="M-.309017-.0489435.16651128.105565 0-1.00000001z"/>
+    <use transform="scale(-1 1)" xlink:href="#a" width="100%" height="100%"/>
+    <use transform="rotate(72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(144)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-144)" xlink:href="#b" width="100%" height="100%"/>
+  </g>
+  <g style="fill:#ffb612" transform="matrix(4.65 0 0 4.65 117.3000031 124.95)">
+    <path d="M-.309017-.0489435.16651128.105565 0-1.00000001z"/>
+    <use transform="scale(-1 1)" xlink:href="#a" width="100%" height="100%"/>
+    <use transform="rotate(72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-72)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(144)" xlink:href="#b" width="100%" height="100%"/>
+    <use transform="rotate(-144)" xlink:href="#b" width="100%" height="100%"/>
+  </g>
+</svg>
